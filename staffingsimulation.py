@@ -86,5 +86,5 @@ best_profit = profits_list[best_index]#                             -
 
 print("-" * 30)
 print(f"OPTIMAL STAFFING LEVEL: {best_employees} employees")
-print(f"MAXIMUM EXPECTED PROFIT: ${best_profit:,.2f}")
+print(f"PROFIT: ${best_profit:,.2f}")
 print("-" * 30)
