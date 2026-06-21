@@ -10,7 +10,7 @@ Built as a learning project to develop skills in python, stochastic modeling, an
 
 | Variables | Value |
 | :--- | :--- |
-| **Operational Period** | 365 days |
+| **Simulated Operational Period** | 365 days |
 | **Daily Operation** | 8 hours/day |
 | **Labor Cost** | $15.00/hour per employee |
 | **Transaction Value** | $50.00 (Fixed per customer) |
