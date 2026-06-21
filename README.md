@@ -74,6 +74,8 @@ Through simulation I found that at 20 employees there was no wait time, and cust
 
 Adding more employees than this would be wasteful as it would result in losses due to uneeded labor cost with no marginal revenue gain.
 
+So for the purpose of graphing, I only simulated outcomes from 1 through 20 employees.
+
 ### 1. Staffing vs. Profitability
 *This graph shows the point of diminishing returns where labor costs begin to outweigh profit.*
 
