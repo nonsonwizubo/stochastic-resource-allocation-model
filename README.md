@@ -26,7 +26,7 @@ potential_customers = np.random.binomial(n=175200, p=0.2)
 ### 2. Simulating Throughput
 For each simulated staffing level, it was assumed that for every 1 employee, 5 customers can be served at a time. 
 
-This script creates a line for customers that arent currently being served. This line is used to calculate wait times.
+This script creates a line for customers that aren't currently being served. This line is used to calculate wait times.
 ```python capacity = (employees * 5) * 365                 
     line = max(0, potential_customers - capacity)      
     if capacity > 0:
