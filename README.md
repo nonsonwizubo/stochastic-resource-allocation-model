@@ -97,7 +97,7 @@ This graph shows how higher staffing levels decrease wait times, resulting in hi
 
 ### Simulation Results Summary
 
-| Employees | Avg Wait Time | Annual Revenue | Annual Payroll | Annual Profit | Satisfaction |
+| Employees | Avg Wait Time | Annual Revenue | Annual Payroll | Annual Profit | Customer Satisfaction |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 18.41 mins | $705,484 | $43,800 | $661,684 | 39.8% |
 | 2 | 8.56 mins | $1,137,283 | $87,600 | $1,049,683 | 65.2% |
