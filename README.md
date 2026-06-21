@@ -79,7 +79,7 @@ Adding more employees than this would be pointless as it would result in losses 
 
 Visually looking at the graph, it looks like beyond 6 employees, profit begins to decrease due to higer labor cost outweighing revenue.
 
-### 2. Customer Satisfaction vs. Profit
+### 2. Customer Satisfaction vs. Profitability
 *This graph shows the trade-off between profit and customer satisfaction*
 
 ![Profit vs Satisfaction Trade Off](graphs/satisfaction_vs_profit_graph.png)
@@ -94,7 +94,6 @@ At the point of maximum profit, customer satisfaction is around 90%. Beyond this
 This graph shows how higher staffing levels decrease wait times, resulting in higher satisfaction rates.
 
 ### Simulation Results Summary
-*The table below summarizes the output of the 10,000-iteration Monte Carlo simulation.* 
 
 | Employees | Avg Wait Time | Annual Revenue | Annual Payroll | Annual Profit | Satisfaction |
 | :--- | :--- | :--- | :--- | :--- | :--- |
