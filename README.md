@@ -6,6 +6,8 @@ Built as a learning project to develop skills in python, stochastic modeling, an
 
 ## Assumptions
 
+*Assumptions were produced to create a simplified simulation of a generic service business for analysis purposes.*
+
 | Variables | Value |
 | :--- | :--- |
 | **Operational Period** | 365 days |
