@@ -113,7 +113,7 @@ Through  this table, It shows max profit actually occurs at 5 employees
 
 Through visualization of the three graphs it appeared that at **6** employees, profit maximized at around **90%** satisfaction.
 
-Although through a deeper analysis of the data using the table, I found that at for each added employee after the 5th, labor cost began to outweigh revenue. Meaning that the maximum profit actaully occured at **5** employees.
+Although through a deeper analysis of the data using the table, I found that at for each added employee after the 5th, marginal labor cost began to outweigh marginal revenue. Meaning that the maximum profit actaully occured at **5** employees.
 
 At **100%** Satisfaction, profit is **33%** lower than the maximum due to excessive labor cost required to reach that final **10%** of customer satisfaction.
 
