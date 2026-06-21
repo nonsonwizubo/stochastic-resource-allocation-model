@@ -68,7 +68,7 @@ for employees in range (1,21):
 ```
 
 ## Findings
-It was found through simulating that at 20 employees there was no wait time, and satisfaction was 100%, meaning maximum revenue had been acheived.
+Through simulation I found that at 20 employees there was no wait time, and satisfaction was 100%, meaning maximum revenue had been acheived.
 
 Adding more employees than this would be pointless as it would result in losses due to uneeded labor cost.
 
