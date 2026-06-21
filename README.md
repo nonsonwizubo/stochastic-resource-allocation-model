@@ -8,7 +8,7 @@ Built as a learning project to develop skills in python, stochastic modeling, an
 
 | Variables | Value |
 | :--- | :--- |
-| **Operational Period** | 365 days (175,200 total minutes) |
+| **Operational Period** | 365 days |
 | **Daily Operation** | 8 hours/day |
 | **Labor Cost** | $15.00/hour per employee |
 | **Transaction Value** | $50.00 (Fixed per customer) |
@@ -17,7 +17,7 @@ Built as a learning project to develop skills in python, stochastic modeling, an
 ### 1. Simulating Customer Arrivals
 In order to simulate the arrival of customers, it was assumed that for each minute, there was a 0.2 probability that a customer would arrive at any minute. 
 
-This probability was simulated for 175200 minutes.
+This probability was simulated for 175200 minutes(time open yearly in minutes).
 ```python
 potential_customers = np.random.binomial(n=175200, p=0.2)
 ```
