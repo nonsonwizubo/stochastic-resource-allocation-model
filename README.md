@@ -1,6 +1,6 @@
 # Stochastic Staffing Optimization Model
 
-A stochastic simulation built with Python to analyze a hypothetical service business. Trade-offs between profit, labor costs, wait times, and customer satisfaction were considered to make data-driven decisions to find best staffing level.
+A stochastic simulation built with Python to analyze a hypothetical service business. Trade-offs between profit, labor costs, wait times, and customer satisfaction were considered to make data-driven decisions to find the best staffing level.
 
 Built as a learning project to develop skills in python, stochastic modeling, and data analysis.
 
